@@ -2,6 +2,25 @@
 
 Active learning is a machine learning paradigm where the model actively selects the most informative data points for training. In drug discovery, it helps prioritize experiments by focusing on compounds or molecules that are most likely to yield valuable insights. This approach accelerates the identification of potential drug candidates, reduces experimental costs, and enhances the efficiency of the drug discovery process.
 
+## Index
+
+- [Papers Published in 2024](#papers-published-in-2024)
+- [Papers Published in 2023](#papers-published-in-2023)
+- [Papers Published in 2022](#papers-published-in-2022)
+- [Papers Published in 2021](#papers-published-in-2021)
+- [Papers Published in 2020](#papers-published-in-2020)
+- [Papers Published in 2019](#papers-published-in-2019)
+- [Papers Published in 2018](#papers-published-in-2018)
+- [Papers Published in 2017](#papers-published-in-2017)
+- [Papers Published in 2016](#papers-published-in-2016)
+- [Papers Published in 2015](#papers-published-in-2015)
+- [Papers Published in 2014](#papers-published-in-2014)
+- [Papers Published in 2013](#papers-published-in-2013)
+- [Papers Published in 2012](#papers-published-in-2012)
+- [Papers Published in 2011](#papers-published-in-2011)
+- [Papers Published in 2010](#papers-published-in-2010)
+- [Papers Published in 2003](#papers-published-in-2003)
+
 ## Papers Published in 2024
 
 | PMID | Title | Authors | Citation | Journal/Book | DOI |
