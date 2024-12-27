@@ -2,6 +2,10 @@
 
 Active learning is a machine learning paradigm where the model actively selects the most informative data points for training. In drug discovery, it helps prioritize experiments by focusing on compounds or molecules that are most likely to yield valuable insights. This approach accelerates the identification of potential drug candidates, reduces experimental costs, and enhances the efficiency of the drug discovery process.
 
+## About the Purpose of the Repository:
+
+This repository aims to serve as a catalog of publications for researchers interested in the intersection of active learning and drug discovery. It offers year-wise organization and quick access to bibliographic details.
+
 ## Index
 
 - [Papers Published in 2024](#papers-published-in-2024)
@@ -185,3 +189,25 @@ Active learning is a machine learning paradigm where the model actively selects 
 | PMID | Title | Authors | Citation | Journal/Book | DOI |
 |------|-------|---------|----------|--------------|-----|
 | 12653536 | Active learning with support vector machines in the drug discovery process | Warmuth MK, Liao J, Rätsch G, Mathieson M, Putta S, Lemmen C. | J Chem Inf Comput Sci. 2003 Mar-Apr;43(2):667-73. doi: 10.1021/ci025620t. | J Chem Inf Comput Sci | [Link](https://doi.org/10.1021/ci025620t) |
+
+
+## Disclaimers
+### Data and Content Disclaimer:
+
+The data and information compiled in this document are sourced from publicly available resources and literature. Every effort has been made to ensure accuracy; however, the authors of this document are not responsible for any errors, omissions, or interpretations of the content.
+
+### Use Case Disclaimer:
+
+This document is intended for academic and research purposes only.
+
+### Copyright Disclaimer:
+
+The content in this document, including titles, abstracts, and publication details, belongs to the respective authors, publishers, and journals. Proper citation and adherence to copyright policies are expected when using this document.
+
+### Liability Disclaimer:
+
+The authors do not accept any liability for the use or misuse of the information contained in this document. Users should independently verify all information before application.
+
+### Ethics Disclaimer:
+
+This compilation aligns with ethical guidelines for academic research. If any ethical concerns are raised regarding its use, please contact the authors to rectify the issue.
